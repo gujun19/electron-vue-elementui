@@ -8,8 +8,10 @@ node v16.20.2
 
 # 命令
 npm run dev
-npm run build
+
 npm run build -- --win 
+
+npm run build -- --mac 
 
 # 说明
 src/main/index.js 28行 用于去掉菜单
