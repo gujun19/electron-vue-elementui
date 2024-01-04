@@ -1,7 +1,7 @@
 ## electron-vue-elementui
 
 #### 环境
-node v16.20.2
+node>14
 
 ####
 
