@@ -11,8 +11,9 @@ npm run dev
 npm run build
 npm run build -- --win 
 
-# 相关知识
+# 说明
 src/main/index.js 28行 用于去掉菜单
+
 src/main/index.js 34行 mainWindow.webContents.openDevTools() 用于打包环境打开调试
 
 
